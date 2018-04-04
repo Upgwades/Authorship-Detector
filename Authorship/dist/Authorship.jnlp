@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Authorship.jnlp">
+    <information>
+        <title>Authorship</title>
+        <vendor>Willi</vendor>
+        <description>null</description>
+        <offline-allowed/>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="9.0.1+" href="http://java.sun.com/products/autodl/j2se"/>
+    </resources>
+    <jfx:javafx-desc width="800" height="600" main-class="author.detector.AuthorDetector" name="AuthorDetector"/>
+</jnlp>
+
